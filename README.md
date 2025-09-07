@@ -1,4 +1,3 @@
-# mikareddy
 # Face Recognition Attendance System 🧑‍🤝‍🧑
 import cv2
 
